@@ -1,0 +1,36 @@
+{
+    "track": [
+        {
+            "position": 4,
+            "obstacles": [
+                "c"
+            ]
+        },
+        {
+            "position": 3,
+            "obstacles": [
+                "c"
+            ]
+        },
+        {
+            "position": 2,
+            "obstacles": [
+                "b"
+            ]
+        }
+    ],
+    "travelLog": [
+        {
+            "position": 1,
+            "laneChange": "left"
+        },
+        {
+            "position": 5,
+            "laneChange": "right"
+        },
+        {
+            "position": 2,
+            "laneChange": "left"
+        }
+    ]
+}

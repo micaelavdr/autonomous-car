@@ -1,0 +1,19 @@
+{
+  "name": "autonomous-car",
+  "version": "1.0.0",
+  "description": "Points autonomous-car developer assignment",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "mocha": "6.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:Points/lcr-developer-assignments.git"
+  },
+  "homepage": "https://github.com/Points/lcr-developer-assignments/autonomous-car#README.md"
+}
